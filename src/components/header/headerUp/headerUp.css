@@ -1,0 +1,14 @@
+header {
+  margin: 0 auto;
+}
+
+.header__search-title {
+  font-family: "Inter";
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+
+  padding: 35px 0 0 0;
+
+  color: rgba(0, 0, 0, 0.65);
+}
